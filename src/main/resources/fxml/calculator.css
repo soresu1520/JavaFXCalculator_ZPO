@@ -1,0 +1,7 @@
+.root{
+    -fx-font-size: 16;
+    -fx-font-size: bold;
+    -fx-font-family: "Courier New";
+    -fx-base: rgb(128, 215, 255);
+    -fx-background: rgb(204, 239, 255);
+}
